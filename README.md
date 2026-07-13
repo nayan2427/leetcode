@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nayan2427/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/nayan2427/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nayan2427/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/nayan2427/leetcode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/nayan2427/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nayan2427/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nayan2427/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/nayan2427/leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/nayan2427/leetcode/tree/master/0189-rotate-array) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nayan2427/leetcode/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nayan2427/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
