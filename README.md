@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nayan2427/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/nayan2427/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/nayan2427/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/nayan2427/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayan2427/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/nayan2427/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nayan2427/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nayan2427/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/nayan2427/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/nayan2427/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/nayan2427/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/nayan2427/leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nayan2427/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/nayan2427/leetcode/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
