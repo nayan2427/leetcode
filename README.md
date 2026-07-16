@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nayan2427/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayan2427/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/nayan2427/leetcode/tree/master/0189-rotate-array) |
+| [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nayan2427/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/nayan2427/leetcode/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -80,4 +82,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nayan2427/leetcode/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
