@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nayan2427/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/nayan2427/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/nayan2427/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nayan2427/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nayan2427/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nayan2427/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nayan2427/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nayan2427/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nayan2427/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/nayan2427/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/nayan2427/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nayan2427/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/nayan2427/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/nayan2427/leetcode/tree/master/0344-reverse-string) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nayan2427/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/nayan2427/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nayan2427/leetcode/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
 ## Linked List
