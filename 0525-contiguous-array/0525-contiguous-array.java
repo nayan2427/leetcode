@@ -12,9 +12,6 @@ class Solution {
             } else {
                 sum++;
             }
-            // if(sum == 0){
-            //     maxlength = i + 1;
-            // }
              if(map.containsKey(sum)) {
                 int length = i - map.get(sum);
                 maxlength = Math.max(maxlength, length);
