@@ -19,7 +19,7 @@ class Solution {
         int[] map = new int[256];
 
         Arrays.fill(map, -1);
-        int left = 0; int right = 0; int maxLength = 0;
+        int left = 0; int right = 0; int Length = 0;
         while(right < s.length()){
             char ch = s.charAt(right);
 
@@ -28,10 +28,10 @@ class Solution {
             }
             map[ch] = right;
 
-            maxLength = Math.max(maxLength, right - left + 1);
+            Length = Math.max(Length, right - left + 1);
 
             right++;;
         }
-        return maxLength;
+        return Length;
     }
 }
