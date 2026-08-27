@@ -1,13 +1,13 @@
 
 class Solution {
-    static {
-        Runtime.getRuntime().addShutdownHook(new Thread(() -> {
-            try (java.io.FileWriter fw = new java.io.FileWriter("display_runtime.txt")) {
-                fw.write("0");
-            } catch (Exception e) {
-            }
-        }));
-    }
+    // static {
+    //     Runtime.getRuntime().addShutdownHook(new Thread(() -> {
+    //         try (java.io.FileWriter fw = new java.io.FileWriter("display_runtime.txt")) {
+    //             fw.write("0");
+    //         } catch (Exception e) {
+    //         }
+    //     }));
+    // }
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         // int[] merged = new int[nums1.length + nums2.length];
