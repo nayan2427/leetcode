@@ -16,5 +16,22 @@ class Solution {
             }
         }
         return maxLength;
+        // int[] map = new int[256];
+
+        // Arrays.fill(map, -1);
+        // int left = 0; int right = 0; int Length = 0;
+        // while(right < s.length()){
+        //     char ch = s.charAt(right);
+
+        //     if(map[ch] != -1){
+        //         left = Math.max(map[ch] + 1, left);
+        //     }
+        //     map[ch] = right;
+
+        //     Length = Math.max(Length, right - left + 1);
+
+        //     right++;;
+        // }
+        // return Length;
     }
 }
