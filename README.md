@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nayan2427/leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/nayan2427/leetcode/tree/master/0525-contiguous-array) |
 | [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
+| [1672-richest-customer-wealth](https://github.com/nayan2427/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/nayan2427/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nayan2427/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nayan2427/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/nayan2427/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/nayan2427/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
