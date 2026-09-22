@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nayan2427/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nayan2427/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/nayan2427/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/nayan2427/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2965-find-missing-and-repeated-values](https://github.com/nayan2427/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/nayan2427/leetcode/tree/master/0525-contiguous-array) |
+| [1732-find-the-highest-altitude](https://github.com/nayan2427/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Backtracking
 |  |
 | ------- |
