@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nayan2427/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nayan2427/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nayan2427/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nayan2427/leetcode/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/nayan2427/leetcode/tree/master/0525-contiguous-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nayan2427/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/nayan2427/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nayan2427/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/nayan2427/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/nayan2427/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nayan2427/leetcode/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nayan2427/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nayan2427/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nayan2427/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nayan2427/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nayan2427/leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
