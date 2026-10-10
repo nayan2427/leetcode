@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nayan2427/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nayan2427/leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/nayan2427/leetcode/tree/master/0525-contiguous-array) |
+| [0704-binary-search](https://github.com/nayan2427/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nayan2427/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nayan2427/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nayan2427/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nayan2427/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nayan2427/leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/nayan2427/leetcode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
