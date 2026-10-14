@@ -4,13 +4,13 @@ class Solution {
             return false;
         }
         int n = x;
-        int revs = 0;
+        int rev = 0;
 
         while (x > 0) {
             int digit = x % 10;
-            revs = revs * 10 + digit;
+            rev = rev * 10 + digit;
             x = x / 10;
         }
-        return revs == n;
+        return rev == n;
     }
 }
