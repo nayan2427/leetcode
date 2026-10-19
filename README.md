@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nayan2427/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nayan2427/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nayan2427/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/nayan2427/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/nayan2427/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nayan2427/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/nayan2427/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nayan2427/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/nayan2427/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nayan2427/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nayan2427/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/nayan2427/leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nayan2427/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nayan2427/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Indexed Tree
 |  |
