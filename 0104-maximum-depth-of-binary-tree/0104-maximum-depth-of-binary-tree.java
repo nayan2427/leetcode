@@ -20,32 +20,32 @@ class Solution {
             return 0;
         }
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        int dep = 0;
+    //     Queue<TreeNode> q = new LinkedList<>();
+    //     q.offer(root);
+    //     int dep = 0;
 
-        while(!q.isEmpty()) {
-            int size = q.size();
+    //     while(!q.isEmpty()) {
+    //         int size = q.size();
 
-            for(int i = 0; i < size; i++) {
-                TreeNode curr = q.poll();
+    //         for(int i = 0; i < size; i++) {
+    //             TreeNode curr = q.poll();
 
-                if(curr.left != null) {
-                    q.offer(curr.left);
-                }
+    //             if(curr.left != null) {
+    //                 q.offer(curr.left);
+    //             }
 
-                if(curr.right != null) {
-                    q.offer(curr.right);
-                }
-            }
-            dep++;
+    //             if(curr.right != null) {
+    //                 q.offer(curr.right);
+    //             }
+    //         }
+    //         dep++;
 
-        }
-        return dep;
+    //     }
+    //     return dep;
 
-        // int leftdepth =  maxDepth(root.left);
-        // int rightdepth =  maxDepth(root.right);
+        int leftdepth =  maxDepth(root.left);
+        int rightdepth =  maxDepth(root.right);
 
-        // return 1 + Math.max(leftdepth , rightdepth);
+        return 1 + Math.max(leftdepth , rightdepth);
     }
 }
