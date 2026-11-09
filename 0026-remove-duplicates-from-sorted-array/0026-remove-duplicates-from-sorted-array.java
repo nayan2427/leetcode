@@ -1,5 +1,6 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
+        //two pointers
             // if(nums.length == 0){
             //     return 0;
             // }
@@ -11,6 +12,8 @@ class Solution {
             //     }
             // }
             // return k+1;
+
+        // Single pointer withc for each loop
         // int idx = 0;
         // for (int num : nums) {
         //     if (idx == 0 || num != nums[idx - 1]) {
@@ -19,16 +22,18 @@ class Solution {
         // }
         // return idx;
 
+
+        // Single pointer with normal for loop
         if(nums.length == 0) return 0;
 
         int n = nums.length;
-        int c = 0;
+        int c = 1;
         for(int i = 1; i < n; i++) {
-            if(nums[c] != nums[i]) {
-                c++;
+            if(nums[i] != nums[i - 1]) {
                 nums[c] = nums[i];
+                c++;
             }
         }
-        return c + 1;
+        return c;
     }
 }
