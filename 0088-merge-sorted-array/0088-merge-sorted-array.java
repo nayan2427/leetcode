@@ -22,24 +22,41 @@ class Solution {
         //     j--;
         //     k--;
         // }
-         int[] nums3 = new int[m + n];
+        // int[] nums3 = new int[m + n];
 
-        
-        for (int i = 0; i < m; i++) {
-            nums3[i] = nums1[i];
+        // for (int i = 0; i < m; i++) {
+        //     nums3[i] = nums1[i];
+        // }
+
+        // for (int i = 0; i < n; i++) {
+        //     nums3[m + i] = nums2[i];
+        // }
+
+        // Arrays.sort(nums3);
+
+        // for (int i = 0; i < m + n; i++) {
+        //     nums1[i] = nums3[i];
+        // }
+
+        int i = m - 1;
+        int j = n - 1;
+        int k = m + n - 1;
+
+        while (i >= 0 && j >= 0) {
+            if (nums1[i] > nums2[j]) {
+                nums1[k] = nums1[i];
+                i--;
+            }else{
+                nums1[k] = nums2[j];
+                j--;
+            }
+            k--;
         }
 
-        
-        for (int i = 0; i < n; i++) {
-            nums3[m + i] = nums2[i];
-        }
-
-        
-        Arrays.sort(nums3);
-
-        
-        for (int i = 0; i < m + n; i++) {
-            nums1[i] = nums3[i];
+        while(j >= 0) {
+            nums1[k] = nums2[j];
+            j--;
+            k--;
         }
     }
 }
