@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nayan2427/leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/nayan2427/leetcode/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/nayan2427/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/nayan2427/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/nayan2427/leetcode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nayan2427/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nayan2427/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/nayan2427/leetcode/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/nayan2427/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nayan2427/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nayan2427/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Backtracking
